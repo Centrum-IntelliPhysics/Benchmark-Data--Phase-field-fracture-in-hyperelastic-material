@@ -27,57 +27,56 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 ## Visualizations
 
-Below are a few samples with displacement and phase-field at the last timestep (t = 44):
+Below are first 3 samples with displacement and phase-field at the last timestep (figures), along with displacement and phase-field Evolution (animation):
 
+**Displacement and Phase-Field at Final Step (figures)**
 
 <p align="center">
   <img
-    src="animations/sample_10_timestep_43_visualization.png"
-    alt="Sample 10 at t=43"
+    src="animations/sample_1_timestep_43_visualization.png"
+    alt="Sample 1 at t=43"
     width="600"
   />
 </p>
 
 <p align="center">
   <img
-    src="animations/sample_50_timestep_43_visualization.png"
-    alt="Sample 50 at t=43"
+    src="animations/sample_2_timestep_43_visualization.png"
+    alt="Sample 2 at t=43"
     width="600"
   />
 </p>
 
 <p align="center">
   <img
-    src="animations/sample_84_timestep_43_visualization.png"
-    alt="Sample 84 at t=43"
+    src="animations/sample_3_timestep_43_visualization.png"
+    alt="Sample 3 at t=43"
     width="600"
   />
 </p>
 
 **Displacement and Phase-Field Evolution (animation)**
 
-Below are a few samples with displacement and phase-field evolution from the initial crack to the entire evolution:
-
 <div align="center">
   <img
-    src="animations/phase_and_disp_evolution_sample10.gif"
-    alt="Sample 10 evolution"
+    src="animations/phase_and_disp_evolution_sample1.gif"
+    alt="Sample 1 evolution"
     width="600"
   />
 </div>
 
 <div align="center">
   <img
-    src="animations/phase_and_disp_evolution_sample50.gif"
-    alt="Sample 50 evolution"
+    src="animations/phase_and_disp_evolution_sample2.gif"
+    alt="Sample 2 evolution"
     width="600"
   />
 </div>
 
 <div align="center">
   <img
-    src="animations/phase_and_disp_evolution_sample84.gif"
-    alt="Sample 84 evolution"
+    src="animations/phase_and_disp_evolution_sample3.gif"
+    alt="Sample 3 evolution"
     width="600"
   />
 </div>
