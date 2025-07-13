@@ -30,19 +30,26 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
   <img
     src="figures/sample_10_timestep_43_visualization.png"
     alt="Sample 10 at t=43"
-    width="300"
+    width="400"
   />
+</p>
+
+<p align="center">
   <img
     src="figures/sample_50_timestep_43_visualization.png"
     alt="Sample 50 at t=43"
-    width="300"
+    width="400"
   />
+</p>
+
+<p align="center">
   <img
     src="figures/sample_84_timestep_43_visualization.png"
     alt="Sample 84 at t=43"
-    width="300"
+    width="400"
   />
 </p>
+
 
 **Displacement and Phase-Field Evolution (animation)**  
 <p align="center">
