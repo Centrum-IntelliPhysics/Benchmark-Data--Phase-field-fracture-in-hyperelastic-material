@@ -21,7 +21,6 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
    - `pre_processor.py` — maps raw fields onto a uniform 128×128 grid and creates `train.npz` (900 samples) and `test.npz` (100 samples)  
    - `data_plotter.py` — example script to load and visualize displacement and phase-field results from the NPZ files -->  
 
-
 ## Visualizations
 
 Below are a few samples with displacement and phase-field at **t = 44**:
@@ -51,7 +50,6 @@ Below are a few samples with displacement and phase-field at **t = 44**:
   />
 </p>
 
-
 **Displacement and Phase-Field Evolution (animation)**
 
 Below are a few samples with displacement and phase-field evolution from **t = 1** to **t = 44**:
@@ -79,3 +77,7 @@ Below are a few samples with displacement and phase-field evolution from **t = 1
     width="600"
   />
 </div>
+
+**Apllications of this dataset**
+
+**Contact**
