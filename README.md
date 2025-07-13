@@ -53,31 +53,29 @@ Below are a few samples with displacement and phase-field at **t = 44**:
 
 
 **Displacement and Phase-Field Evolution (animation)**
+
 Below are a few samples with displacement and phase-field evolution from **t = 1** to **t = 44**:
 
-<p align="center">
+<div align="center">
   <img
     src="animations/phase_and_disp_evolution_sample10.gif"
-    alt="Phase-field over one loading cycle for sample 10"
+    alt="Sample 10 evolution"
     width="600"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img
     src="animations/phase_and_disp_evolution_sample50.gif"
-    alt="Phase-field over one loading cycle for sample 50"
+    alt="Sample 50 evolution"
     width="600"
   />
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   <img
     src="animations/phase_and_disp_evolution_sample84.gif"
-    alt="Phase-field over one loading cycle for sample 84"
+    alt="Sample 84 evolution"
     width="600"
   />
-</p>
-
-   
-
+</div>
