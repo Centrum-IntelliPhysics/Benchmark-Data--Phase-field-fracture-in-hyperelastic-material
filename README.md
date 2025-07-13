@@ -26,9 +26,9 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 **Displacement and Crack Evolution (static frames)**  
 <div align="center">
-   <img src="figures/sample_10_timestep_43_visualization.png" width="600" alt="Sample 50" />
+   <img src="figures/sample_10_timestep_43_visualization.png" width="600" alt="Sample 10" />
    <img src="figures/sample_50_timestep_43_visualization.png" width="600" alt="Sample 50" />
-   <img src="figures/sample_84_timestep_43_visualization.png" width="600" alt="Sample 50" />
+   <img src="figures/sample_84_timestep_43_visualization.png" width="600" alt="Sample 84" />
 </div>
 
 **Displacement and Phase-Field Evolution (animation)**  
