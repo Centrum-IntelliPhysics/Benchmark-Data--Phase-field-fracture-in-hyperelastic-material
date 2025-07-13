@@ -23,7 +23,7 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 ## Visualizations
 
-Below are a few samples with displacement and phase-field at **t = 44**:
+Below are a few samples with displacement and phase-field at the last timestep (t = 44):
 
 
 <p align="center">
@@ -52,7 +52,7 @@ Below are a few samples with displacement and phase-field at **t = 44**:
 
 **Displacement and Phase-Field Evolution (animation)**
 
-Below are a few samples with displacement and phase-field evolution from **t = 1** to **t = 44**:
+Below are a few samples with displacement and phase-field evolution from the initial crack to the entire evolution:
 
 <div align="center">
   <img
