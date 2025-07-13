@@ -80,4 +80,6 @@ Below are a few samples with displacement and phase-field evolution from **t = 1
 
 **Apllications of this dataset**
 
+**Cite our dataset**
+
 **Contact**
