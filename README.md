@@ -33,7 +33,7 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 <img
   src="animations/phase_and_disp_evolution_sample50.gif"
   alt="Phase-field over one loading cycle for sample 50"
-  width="400"
+  width="800"
 />
 
 
