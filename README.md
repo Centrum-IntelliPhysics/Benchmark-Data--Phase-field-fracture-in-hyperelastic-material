@@ -28,7 +28,7 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 <p align="center">
   <img
-    src="figures/sample_10_timestep_43_visualization.png"
+    src="animations/sample_10_timestep_43_visualization.png"
     alt="Sample 10 at t=43"
     width="400"
   />
@@ -36,7 +36,7 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 <p align="center">
   <img
-    src="figures/sample_50_timestep_43_visualization.png"
+    src="animations/sample_50_timestep_43_visualization.png"
     alt="Sample 50 at t=43"
     width="400"
   />
@@ -44,7 +44,7 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 <p align="center">
   <img
-    src="figures/sample_84_timestep_43_visualization.png"
+    src="animations/sample_84_timestep_43_visualization.png"
     alt="Sample 84 at t=43"
     width="400"
   />
