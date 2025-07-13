@@ -84,7 +84,7 @@ Below are a few samples with displacement and phase-field evolution from the ini
 
 ---
 
-##Apllications of this dataset
+## Apllications of this dataset
 
 ### 1. Benchmarking Basic ML & DL Models  
 Because the displacement and phase-field outputs are on a uniform grid, this dataset is ideal for standard image-based architectures:
@@ -128,7 +128,7 @@ Thanks to the elastic and fracture energy values included for the first 96 sampl
 
 ---
 
-##Cite our dataset
+## Cite our dataset
 
 If you use our dataset, please cite our dataset:
 
@@ -144,6 +144,6 @@ url = {https://doi.org/10.7281/T1XFF19O}
 
 ---
 
-##Contact
+## Contact
 
 In case you need more information, please feel free to contact Dr. Maryam Hakimzadeh (@mhakimz1@jhu.edu) or Prof. Somdatta Goswami (sgoswam4@jhu.edu). 
