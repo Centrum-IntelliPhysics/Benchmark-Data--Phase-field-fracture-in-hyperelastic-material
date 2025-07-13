@@ -30,11 +30,14 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 </div>
 
 **Displacement and Phase-Field Evolution (animation)**  
-<img
-  src="animations/phase_and_disp_evolution_sample50.gif"
-  alt="Phase-field over one loading cycle for sample 50"
-  width="800"
-/>
+<p align="center">
+  <img
+    src="animations/phase_and_disp_evolution_sample50.gif"
+    alt="Phase-field over one loading cycle for sample 50"
+    width="600"
+  />
+</p>
+
 
 
    
