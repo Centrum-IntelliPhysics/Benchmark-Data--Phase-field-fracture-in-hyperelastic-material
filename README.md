@@ -1,4 +1,4 @@
-# Phase-Field-Fracture-Dataset  
+# Benchmark dataset: Phase Field fracture modeling in hyperelastic material with multiple cracks 
 Hyperelastic multi-crack response under cyclic loading simulated with FEniCS
 
 This dataset contains 1000 finite-element simulations of a 2D square specimen with a circular cavity and eight pre-cracks, subjected to tension, unloading, and compression using a large-deformation Neo-Hookean phase-field formulation.
