@@ -1,7 +1,7 @@
 # Phase-Field-Fracture-Dataset  
 Hyperelastic multi-crack response under cyclic loading simulated with FEniCS
 
-This dataset contains 1000 finite-element simulations of a 2D square specimen with a circular cavity and eight pre-cracks, subjected to expansion, unloading, and compression using a large-deformation neo-Hookean phase-field formulation.
+This dataset contains 1000 finite-element simulations of a 2D square specimen with a circular cavity and eight pre-cracks, subjected to tension, unloading, and compression using a large-deformation neo-Hookean phase-field formulation.
 
 ## Full Dataset  
 Our complete collection comprises **1000** distinct Gaussian-random-field-driven boundary-condition realizations. The full dataset is available in JHU archive at: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1XFF19O
