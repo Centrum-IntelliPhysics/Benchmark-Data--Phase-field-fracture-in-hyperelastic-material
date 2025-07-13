@@ -31,7 +31,7 @@ Below are a few samples with displacement and phase-field at **t = 44**:
   <img
     src="animations/sample_10_timestep_43_visualization.png"
     alt="Sample 10 at t=43"
-    width="400"
+    width="600"
   />
 </p>
 
@@ -39,7 +39,7 @@ Below are a few samples with displacement and phase-field at **t = 44**:
   <img
     src="animations/sample_50_timestep_43_visualization.png"
     alt="Sample 50 at t=43"
-    width="400"
+    width="600"
   />
 </p>
 
@@ -47,7 +47,7 @@ Below are a few samples with displacement and phase-field at **t = 44**:
   <img
     src="animations/sample_84_timestep_43_visualization.png"
     alt="Sample 84 at t=43"
-    width="400"
+    width="600"
   />
 </p>
 
