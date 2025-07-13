@@ -86,7 +86,7 @@ Below are first 3 samples with displacement and phase-field at the last timestep
 ## Apllications of this dataset
 
 ### 1. Benchmarking Basic ML & DL Models  
-Because the displacement and phase-field outputs are on a uniform grid, this dataset is ideal for standard image-based architectures:
+Because the displacement and phase-field outputs are mapped to a uniform grid, this dataset is ideal for standard image-based architectures:
 
 - **CNN Regression**  
   - Map boundary-condition fields (e.g. GRF displacement maps) to phase-field damage snapshots at a given timestep.  
