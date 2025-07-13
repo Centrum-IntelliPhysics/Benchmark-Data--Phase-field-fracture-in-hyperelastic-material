@@ -24,7 +24,8 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 ## Visualizations
 
-**Displacement and Crack Evolution (static frames)**
+Below are a few samples with displacement and phase-field at **t = 44**:
+
 
 <p align="center">
   <img
@@ -51,7 +52,9 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 </p>
 
 
-**Displacement and Phase-Field Evolution (animation)**  
+**Displacement and Phase-Field Evolution (animation)**
+Below are a few samples with displacement and phase-field evolution from **t = 1** to **t = 44**:
+
 <p align="center">
   <img
     src="animations/phase_and_disp_evolution_sample50.gif"
