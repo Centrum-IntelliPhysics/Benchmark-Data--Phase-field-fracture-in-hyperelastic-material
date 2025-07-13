@@ -57,13 +57,27 @@ Below are a few samples with displacement and phase-field evolution from **t = 1
 
 <p align="center">
   <img
+    src="animations/phase_and_disp_evolution_sample10.gif"
+    alt="Phase-field over one loading cycle for sample 10"
+    width="600"
+  />
+</p>
+
+<p align="center">
+  <img
     src="animations/phase_and_disp_evolution_sample50.gif"
     alt="Phase-field over one loading cycle for sample 50"
     width="600"
   />
 </p>
 
-
+<p align="center">
+  <img
+    src="animations/phase_and_disp_evolution_sample84.gif"
+    alt="Phase-field over one loading cycle for sample 84"
+    width="600"
+  />
+</p>
 
    
 
