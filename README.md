@@ -6,7 +6,7 @@ This dataset contains 1000 finite-element simulations of a 2D square specimen wi
 ## Full Dataset  
 Our complete collection comprises **1000** distinct Gaussian-random-field-driven boundary-condition realizations. The full dataset is available in JHU archive at: https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1XFF19O
 
-## This Repository Contains
+<!--## This Repository Contains
 
 1. **Dataset Generation Code**  
    - **`scripts/`**  
@@ -19,5 +19,5 @@ Our complete collection comprises **1000** distinct Gaussian-random-field-driven
 
 3. **ML Data Preparation & Visualization**  
    - `pre_processor.py` — maps raw fields onto a uniform 128×128 grid and creates `train.npz` (900 samples) and `test.npz` (100 samples)  
-   - `data_plotter.py` — example script to load and visualize displacement and phase-field results from the NPZ files  
+   - `data_plotter.py` — example script to load and visualize displacement and phase-field results from the NPZ files -->  
 
