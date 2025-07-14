@@ -131,6 +131,7 @@ Thanks to the elastic and fracture energy values included for the first 96 sampl
 
 If you use this dataset in your work, please cite it as follows:
 
+```
 @data{T1XFF19O_2025,
 author = {Hakimzadeh, Maryam and Graham-Brady, Lori and Goswami, Somdatta},
 publisher = {Johns Hopkins Research Data Repository},
@@ -140,7 +141,7 @@ version = {V2},
 doi = {10.7281/T1XFF19O},
 url = {https://doi.org/10.7281/T1XFF19O}
 }
-
+```
 ---
 
 ## Contact
