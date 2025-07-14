@@ -145,4 +145,4 @@ url = {https://doi.org/10.7281/T1XFF19O}
 
 ## Contact
 
-In case you need more information, please feel free to contact Dr. Maryam Hakimzadeh (@mhakimz1@jhu.edu) or Prof. Somdatta Goswami (sgoswam4@jhu.edu). 
+In case you need more information, please feel free to contact Dr. Maryam Hakimzadeh (@mhakimz1@jhu.edu), Prof. Lori Graham Brady (lori@jhu.edu), or Prof. Somdatta Goswami (sgoswam4@jhu.edu). 
