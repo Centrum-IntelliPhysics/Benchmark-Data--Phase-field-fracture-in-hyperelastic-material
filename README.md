@@ -104,7 +104,7 @@ Because the displacement and phase-field outputs are mapped to a uniform grid, t
 This dataset provides a playground for operator-learning and physics-informed methods:
 
 - **Neural Operators (e.g., FNO, DeepONet)**  
-  - Learn mappings from inirial displacement function to time-series of phase-field and displacement in one shot.  
+  - Learn mappings from initial displacement function to time-series of phase-field and displacement in one shot.  
   - Leverage the uniform grid for efficient Fourier or kernel-based layers.
 
 - **Physics-Informed Neural Operators**  
@@ -129,7 +129,7 @@ Thanks to the elastic and fracture energy values included for the first 96 sampl
 
 ## Cite our dataset
 
-If you use our dataset, please cite our dataset:
+If you use this dataset in your work, please cite it as follows:
 
 @data{T1XFF19O_2025,
 author = {Hakimzadeh, Maryam and Graham-Brady, Lori and Goswami, Somdatta},
