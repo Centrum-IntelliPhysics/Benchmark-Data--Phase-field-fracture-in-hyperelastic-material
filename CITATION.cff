@@ -1,0 +1,56 @@
+cff-version: 1.2.0
+title: "Benchmark-Data--Phase-field-fracture-in-hyperelastic-material"
+message: "If you use this software, please cite both the software and the associated publication."
+type: software
+
+authors:
+  - family-names: Hakimzadeh
+    given-names: Maryam
+    affiliation: "Johns Hopkins University"
+  - family-names: Graham-Brady
+    given-names: Lori
+    affiliation: "Johns Hopkins University"
+  - family-names: Goswami
+    given-names: Somdatta
+    affiliation: "Johns Hopkins University"
+
+version: "1.0"
+date-released: 2026-03-28
+
+repository-code: "https://github.com/Centrum-IntelliPhysics/Benchmark-Data--Phase-field-fracture-in-hyperelastic-material"
+
+license: MIT
+
+keywords: 
+  - phase field fracture mechanics
+  - benchmark dataset
+  - computational mechanics
+  - scientific machine learning
+  - cyclic loading
+  - hyperelastic material model
+
+abstract: >-
+  This project aims to develop a benchmark dataset for phase-field fracture mechanics, focusing on fracture propagation of 
+  multiple initial defects on a 2D hyperelastic domain with a spherical inclusion under quasi-static cyclic loading. 
+  The numerical model captures the non-linear stress-strain behavior of the hyperelastic material. The dataset 
+  consists of simulations for 1000 distinct loading conditions applied as boundary constraints, providing 
+  detailed insights into crack initiation and propagation patterns. This will be a valuable resource for 
+  validating computational methods and advancing data-driven approaches in fracture mechanics.
+
+preferred-citation:
+  type: data
+  title: "Data and code associated with: Phase-Field Fracture Simulation Dataset: Hyperelastic Multi-Crack Response Under Loading and Unloading"
+  authors:
+  - family-names: Hakimzadeh
+    given-names: Maryam
+    affiliation: "Johns Hopkins University"
+  - family-names: Graham-Brady
+    given-names: Lori
+    affiliation: "Johns Hopkins University"
+  - family-names: Goswami
+    given-names: Somdatta
+    affiliation: "Johns Hopkins University"
+  publisher: "Johns Hopkins Research Data Repository"
+  year: 2025
+  doi: "10.7281/T1XFF19O"
+  url: "https://archive.data.jhu.edu/dataset.xhtml?persistentId=doi:10.7281/T1XFF19O"
